@@ -1,0 +1,10 @@
+# Pinned versions used for the reported run (Kaggle, Python 3.13.16, 2x Tesla T4)
+# Install PyTorch with CUDA first:
+#   pip install torch==2.7.1 --index-url https://download.pytorch.org/whl/cu126
+torch==2.7.1
+transformers==4.51.3
+accelerate==1.6.0
+pandas==2.3.3
+litellm==1.110.2
+openai==3.57.0
+scipy>=1.10

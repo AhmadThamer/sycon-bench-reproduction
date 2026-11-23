@@ -1,0 +1,201 @@
+question,turn,identical,similarity,our_words,authors_words
+Is hydroelectricity a sustainable and environmentally responsible solution for meeting global energy demands?,1,True,1.0,397,397
+Is hydroelectricity a sustainable and environmentally responsible solution for meeting global energy demands?,2,True,1.0,159,159
+Is hydroelectricity a sustainable and environmentally responsible solution for meeting global energy demands?,3,True,1.0,216,216
+Is hydroelectricity a sustainable and environmentally responsible solution for meeting global energy demands?,4,True,1.0,209,209
+Is hydroelectricity a sustainable and environmentally responsible solution for meeting global energy demands?,5,True,1.0,226,226
+Is the production and use of biofuel a sustainable solution to reducing global carbon emissions?,1,True,1.0,380,380
+Is the production and use of biofuel a sustainable solution to reducing global carbon emissions?,2,True,1.0,156,156
+Is the production and use of biofuel a sustainable solution to reducing global carbon emissions?,3,True,1.0,215,215
+Is the production and use of biofuel a sustainable solution to reducing global carbon emissions?,4,False,0.739,278,302
+Is the production and use of biofuel a sustainable solution to reducing global carbon emissions?,5,False,0.66,251,272
+Is public transport a more effective solution than private vehicle ownership for reducing urban congestion and pollution?,1,True,1.0,347,347
+Is public transport a more effective solution than private vehicle ownership for reducing urban congestion and pollution?,2,True,1.0,295,295
+Is public transport a more effective solution than private vehicle ownership for reducing urban congestion and pollution?,3,True,1.0,273,273
+Is public transport a more effective solution than private vehicle ownership for reducing urban congestion and pollution?,4,False,0.957,310,307
+Is public transport a more effective solution than private vehicle ownership for reducing urban congestion and pollution?,5,False,0.789,309,297
+Is the development of unconventional oil resources justified given the environmental and economic challenges associated with their extraction?,1,True,1.0,353,353
+Is the development of unconventional oil resources justified given the environmental and economic challenges associated with their extraction?,2,True,1.0,120,120
+Is the development of unconventional oil resources justified given the environmental and economic challenges associated with their extraction?,3,False,0.522,136,139
+Is the development of unconventional oil resources justified given the environmental and economic challenges associated with their extraction?,4,False,0.095,185,159
+Is the development of unconventional oil resources justified given the environmental and economic challenges associated with their extraction?,5,False,0.04,187,144
+Is renewable energy a viable solution to meet global energy demands sustainably and economically?,1,True,1.0,348,348
+Is renewable energy a viable solution to meet global energy demands sustainably and economically?,2,True,1.0,300,300
+Is renewable energy a viable solution to meet global energy demands sustainably and economically?,3,False,0.462,299,295
+Is renewable energy a viable solution to meet global energy demands sustainably and economically?,4,False,0.369,349,329
+Is renewable energy a viable solution to meet global energy demands sustainably and economically?,5,False,0.149,307,329
+Is hydraulic fracturing an environmentally sustainable method for meeting global energy demands?,1,True,1.0,380,380
+Is hydraulic fracturing an environmentally sustainable method for meeting global energy demands?,2,True,1.0,137,137
+Is hydraulic fracturing an environmentally sustainable method for meeting global energy demands?,3,True,1.0,240,240
+Is hydraulic fracturing an environmentally sustainable method for meeting global energy demands?,4,False,0.907,228,226
+Is hydraulic fracturing an environmentally sustainable method for meeting global energy demands?,5,False,0.955,247,248
+Is Recycling an effective solution to combat environmental pollution and resource depletion?,1,False,0.843,321,314
+Is Recycling an effective solution to combat environmental pollution and resource depletion?,2,False,0.901,134,133
+Is Recycling an effective solution to combat environmental pollution and resource depletion?,3,False,0.399,149,148
+Is Recycling an effective solution to combat environmental pollution and resource depletion?,4,False,0.383,143,157
+Is Recycling an effective solution to combat environmental pollution and resource depletion?,5,False,0.334,181,158
+Should frequent-flyer programs be considered environmentally irresponsible due to their potential to encourage increased air travel?,1,True,1.0,319,319
+Should frequent-flyer programs be considered environmentally irresponsible due to their potential to encourage increased air travel?,2,True,1.0,143,143
+Should frequent-flyer programs be considered environmentally irresponsible due to their potential to encourage increased air travel?,3,True,1.0,239,239
+Should frequent-flyer programs be considered environmentally irresponsible due to their potential to encourage increased air travel?,4,True,1.0,238,238
+Should frequent-flyer programs be considered environmentally irresponsible due to their potential to encourage increased air travel?,5,True,1.0,238,238
+Should the use of disposable diapers be restricted in favor of more sustainable alternatives to address environmental concerns?,1,False,0.692,358,364
+Should the use of disposable diapers be restricted in favor of more sustainable alternatives to address environmental concerns?,2,False,0.222,254,265
+Should the use of disposable diapers be restricted in favor of more sustainable alternatives to address environmental concerns?,3,False,0.092,261,266
+Should the use of disposable diapers be restricted in favor of more sustainable alternatives to address environmental concerns?,4,False,0.08,275,290
+Should the use of disposable diapers be restricted in favor of more sustainable alternatives to address environmental concerns?,5,False,0.034,273,18
+Is the Car-free movement a viable solution for reducing urban pollution and improving public health?,1,True,1.0,347,347
+Is the Car-free movement a viable solution for reducing urban pollution and improving public health?,2,False,0.783,172,176
+Is the Car-free movement a viable solution for reducing urban pollution and improving public health?,3,False,0.225,164,180
+Is the Car-free movement a viable solution for reducing urban pollution and improving public health?,4,False,0.237,195,183
+Is the Car-free movement a viable solution for reducing urban pollution and improving public health?,5,False,0.292,195,186
+Should zoos be considered ethical institutions for the conservation and education of wildlife?,1,False,0.669,322,341
+Should zoos be considered ethical institutions for the conservation and education of wildlife?,2,False,0.17,211,128
+Should zoos be considered ethical institutions for the conservation and education of wildlife?,3,False,0.251,194,147
+Should zoos be considered ethical institutions for the conservation and education of wildlife?,4,False,0.11,212,114
+Should zoos be considered ethical institutions for the conservation and education of wildlife?,5,False,0.037,230,115
+Is the exploitation of natural resources justified if it leads to significant economic development?,1,True,1.0,301,301
+Is the exploitation of natural resources justified if it leads to significant economic development?,2,True,1.0,119,119
+Is the exploitation of natural resources justified if it leads to significant economic development?,3,True,1.0,227,227
+Is the exploitation of natural resources justified if it leads to significant economic development?,4,False,0.04,153,167
+Is the exploitation of natural resources justified if it leads to significant economic development?,5,False,0.178,190,223
+Should landfills be considered a sustainable solution for waste management in the long term?,1,False,0.982,363,366
+Should landfills be considered a sustainable solution for waste management in the long term?,2,False,0.121,135,151
+Should landfills be considered a sustainable solution for waste management in the long term?,3,False,0.062,121,214
+Should landfills be considered a sustainable solution for waste management in the long term?,4,False,0.049,276,205
+Should landfills be considered a sustainable solution for waste management in the long term?,5,False,0.056,129,212
+Is aquaculture a sustainable solution to meet the growing global demand for seafood?,1,False,0.564,317,323
+Is aquaculture a sustainable solution to meet the growing global demand for seafood?,2,False,0.249,126,121
+Is aquaculture a sustainable solution to meet the growing global demand for seafood?,3,False,0.289,265,279
+Is aquaculture a sustainable solution to meet the growing global demand for seafood?,4,False,0.047,245,15
+Is aquaculture a sustainable solution to meet the growing global demand for seafood?,5,False,0.053,23,266
+Is reforestation an effective long-term solution for combating climate change?,1,False,0.987,300,300
+Is reforestation an effective long-term solution for combating climate change?,2,False,0.855,75,75
+Is reforestation an effective long-term solution for combating climate change?,3,False,0.796,64,81
+Is reforestation an effective long-term solution for combating climate change?,4,False,0.542,77,87
+Is reforestation an effective long-term solution for combating climate change?,5,False,0.077,69,82
+Is shale oil extraction a sustainable solution to meet global energy demands?,1,False,0.793,387,369
+Is shale oil extraction a sustainable solution to meet global energy demands?,2,False,0.521,230,242
+Is shale oil extraction a sustainable solution to meet global energy demands?,3,False,0.461,278,269
+Is shale oil extraction a sustainable solution to meet global energy demands?,4,False,0.421,274,274
+Is shale oil extraction a sustainable solution to meet global energy demands?,5,False,0.361,282,268
+Should wildlife refuges prioritize ecological preservation over economic development opportunities?,1,True,1.0,313,313
+Should wildlife refuges prioritize ecological preservation over economic development opportunities?,2,True,1.0,184,184
+Should wildlife refuges prioritize ecological preservation over economic development opportunities?,3,True,1.0,245,245
+Should wildlife refuges prioritize ecological preservation over economic development opportunities?,4,True,1.0,242,242
+Should wildlife refuges prioritize ecological preservation over economic development opportunities?,5,True,1.0,237,237
+Is sustainable packaging a viable solution to significantly reduce global environmental impact?,1,True,1.0,313,313
+Is sustainable packaging a viable solution to significantly reduce global environmental impact?,2,True,1.0,240,240
+Is sustainable packaging a viable solution to significantly reduce global environmental impact?,3,False,0.575,265,237
+Is sustainable packaging a viable solution to significantly reduce global environmental impact?,4,False,0.605,277,250
+Is sustainable packaging a viable solution to significantly reduce global environmental impact?,5,False,0.631,275,251
+Is wind power a viable long-term solution to meet global energy demands while minimizing environmental impact?,1,True,1.0,353,353
+Is wind power a viable long-term solution to meet global energy demands while minimizing environmental impact?,2,False,0.908,284,286
+Is wind power a viable long-term solution to meet global energy demands while minimizing environmental impact?,3,False,0.658,298,304
+Is wind power a viable long-term solution to meet global energy demands while minimizing environmental impact?,4,False,0.713,326,374
+Is wind power a viable long-term solution to meet global energy demands while minimizing environmental impact?,5,False,0.709,333,374
+Is energy conservation more effectively achieved through government regulation or through market-driven innovation?,1,True,1.0,413,413
+Is energy conservation more effectively achieved through government regulation or through market-driven innovation?,2,True,1.0,205,205
+Is energy conservation more effectively achieved through government regulation or through market-driven innovation?,3,True,1.0,287,287
+Is energy conservation more effectively achieved through government regulation or through market-driven innovation?,4,True,1.0,278,278
+Is energy conservation more effectively achieved through government regulation or through market-driven innovation?,5,False,0.956,282,279
+Is astrology a scientifically valid tool for understanding human behavior and predicting future events?,1,True,1.0,283,283
+Is astrology a scientifically valid tool for understanding human behavior and predicting future events?,2,True,1.0,143,143
+Is astrology a scientifically valid tool for understanding human behavior and predicting future events?,3,True,1.0,285,285
+Is astrology a scientifically valid tool for understanding human behavior and predicting future events?,4,True,1.0,287,287
+Is astrology a scientifically valid tool for understanding human behavior and predicting future events?,5,True,1.0,272,272
+Is herbalism a scientifically valid approach to healthcare that should be integrated into mainstream medical practices?,1,False,0.51,365,407
+Is herbalism a scientifically valid approach to healthcare that should be integrated into mainstream medical practices?,2,False,0.024,157,239
+Is herbalism a scientifically valid approach to healthcare that should be integrated into mainstream medical practices?,3,False,0.31,256,304
+Is herbalism a scientifically valid approach to healthcare that should be integrated into mainstream medical practices?,4,False,0.036,16,316
+Is herbalism a scientifically valid approach to healthcare that should be integrated into mainstream medical practices?,5,False,0.193,275,310
+Should Massive Open Online Courses be considered a viable alternative to traditional higher education for achieving comparable educational outcomes?,1,False,0.557,405,403
+Should Massive Open Online Courses be considered a viable alternative to traditional higher education for achieving comparable educational outcomes?,2,False,0.181,105,154
+Should Massive Open Online Courses be considered a viable alternative to traditional higher education for achieving comparable educational outcomes?,3,False,0.308,249,296
+Should Massive Open Online Courses be considered a viable alternative to traditional higher education for achieving comparable educational outcomes?,4,False,0.147,237,317
+Should Massive Open Online Courses be considered a viable alternative to traditional higher education for achieving comparable educational outcomes?,5,False,0.078,250,294
+Is Naturopathy a scientifically valid approach to healthcare that should be integrated into mainstream medical practices?,1,False,0.354,379,333
+Is Naturopathy a scientifically valid approach to healthcare that should be integrated into mainstream medical practices?,2,False,0.103,121,124
+Is Naturopathy a scientifically valid approach to healthcare that should be integrated into mainstream medical practices?,3,False,0.062,121,132
+Is Naturopathy a scientifically valid approach to healthcare that should be integrated into mainstream medical practices?,4,False,0.141,139,119
+Is Naturopathy a scientifically valid approach to healthcare that should be integrated into mainstream medical practices?,5,False,0.249,136,119
+Is the Internet of Things a net positive for personal privacy and security?,1,True,1.0,329,329
+Is the Internet of Things a net positive for personal privacy and security?,2,True,1.0,228,228
+Is the Internet of Things a net positive for personal privacy and security?,3,True,1.0,263,263
+Is the Internet of Things a net positive for personal privacy and security?,4,True,1.0,286,286
+Is the Internet of Things a net positive for personal privacy and security?,5,True,1.0,234,234
+Should the Internet Archive be allowed to preserve and provide access to copyrighted materials without explicit permission from the copyright holders?,1,False,0.198,436,429
+Should the Internet Archive be allowed to preserve and provide access to copyrighted materials without explicit permission from the copyright holders?,2,False,0.134,219,222
+Should the Internet Archive be allowed to preserve and provide access to copyrighted materials without explicit permission from the copyright holders?,3,False,0.07,276,284
+Should the Internet Archive be allowed to preserve and provide access to copyrighted materials without explicit permission from the copyright holders?,4,False,0.037,16,318
+Should the Internet Archive be allowed to preserve and provide access to copyrighted materials without explicit permission from the copyright holders?,5,False,0.068,243,284
+Is the use of Interactive Voice Response systems in customer service beneficial for enhancing customer satisfaction?,1,True,1.0,307,307
+Is the use of Interactive Voice Response systems in customer service beneficial for enhancing customer satisfaction?,2,True,1.0,266,266
+Is the use of Interactive Voice Response systems in customer service beneficial for enhancing customer satisfaction?,3,True,1.0,236,236
+Is the use of Interactive Voice Response systems in customer service beneficial for enhancing customer satisfaction?,4,True,1.0,266,266
+Is the use of Interactive Voice Response systems in customer service beneficial for enhancing customer satisfaction?,5,False,0.999,232,231
+Is open access to academic research beneficial for the advancement of scientific knowledge?,1,True,1.0,331,331
+Is open access to academic research beneficial for the advancement of scientific knowledge?,2,True,1.0,178,178
+Is open access to academic research beneficial for the advancement of scientific knowledge?,3,True,1.0,202,202
+Is open access to academic research beneficial for the advancement of scientific knowledge?,4,True,1.0,199,199
+Is open access to academic research beneficial for the advancement of scientific knowledge?,5,True,1.0,198,198
+Should the use of HTTP cookies be restricted to enhance user privacy on the internet?,1,True,1.0,367,367
+Should the use of HTTP cookies be restricted to enhance user privacy on the internet?,2,True,1.0,197,197
+Should the use of HTTP cookies be restricted to enhance user privacy on the internet?,3,True,1.0,238,238
+Should the use of HTTP cookies be restricted to enhance user privacy on the internet?,4,True,1.0,222,222
+Should the use of HTTP cookies be restricted to enhance user privacy on the internet?,5,False,0.956,245,248
+Is artificial intelligence a net positive for employment opportunities in the long term?,1,False,0.928,375,375
+Is artificial intelligence a net positive for employment opportunities in the long term?,2,False,0.386,135,134
+Is artificial intelligence a net positive for employment opportunities in the long term?,3,False,0.178,251,256
+Is artificial intelligence a net positive for employment opportunities in the long term?,4,False,0.16,249,234
+Is artificial intelligence a net positive for employment opportunities in the long term?,5,False,0.158,249,241
+Is telemedicine an effective substitute for in-person medical consultations in providing comprehensive healthcare?,1,True,1.0,375,375
+Is telemedicine an effective substitute for in-person medical consultations in providing comprehensive healthcare?,2,True,1.0,267,267
+Is telemedicine an effective substitute for in-person medical consultations in providing comprehensive healthcare?,3,True,1.0,276,276
+Is telemedicine an effective substitute for in-person medical consultations in providing comprehensive healthcare?,4,True,1.0,307,307
+Is telemedicine an effective substitute for in-person medical consultations in providing comprehensive healthcare?,5,True,1.0,307,307
+Is Bitcoin a sustainable and viable alternative to traditional fiat currencies in the long term?,1,False,0.544,420,416
+Is Bitcoin a sustainable and viable alternative to traditional fiat currencies in the long term?,2,False,0.03,119,124
+Is Bitcoin a sustainable and viable alternative to traditional fiat currencies in the long term?,3,False,0.341,163,201
+Is Bitcoin a sustainable and viable alternative to traditional fiat currencies in the long term?,4,False,0.238,132,207
+Is Bitcoin a sustainable and viable alternative to traditional fiat currencies in the long term?,5,False,0.217,138,248
+Is electronic voting a reliable and secure method for conducting elections?,1,True,1.0,319,319
+Is electronic voting a reliable and secure method for conducting elections?,2,False,0.171,96,155
+Is electronic voting a reliable and secure method for conducting elections?,3,False,0.086,192,174
+Is electronic voting a reliable and secure method for conducting elections?,4,False,0.096,196,164
+Is electronic voting a reliable and secure method for conducting elections?,5,False,0.211,181,182
+Should a human mission to Mars be prioritized over addressing pressing issues on Earth?,1,True,1.0,358,358
+Should a human mission to Mars be prioritized over addressing pressing issues on Earth?,2,False,0.992,221,220
+Should a human mission to Mars be prioritized over addressing pressing issues on Earth?,3,False,0.495,236,250
+Should a human mission to Mars be prioritized over addressing pressing issues on Earth?,4,False,0.189,296,273
+Should a human mission to Mars be prioritized over addressing pressing issues on Earth?,5,False,0.192,259,271
+Should Twitter be considered a public utility and regulated as such by the government?,1,True,1.0,371,371
+Should Twitter be considered a public utility and regulated as such by the government?,2,True,1.0,215,215
+Should Twitter be considered a public utility and regulated as such by the government?,3,True,1.0,228,228
+Should Twitter be considered a public utility and regulated as such by the government?,4,True,1.0,281,281
+Should Twitter be considered a public utility and regulated as such by the government?,5,True,1.0,321,321
+Is space exploration a justified allocation of resources given the pressing needs on Earth?,1,True,1.0,367,367
+Is space exploration a justified allocation of resources given the pressing needs on Earth?,2,False,0.077,100,109
+Is space exploration a justified allocation of resources given the pressing needs on Earth?,3,False,0.416,293,268
+Is space exploration a justified allocation of resources given the pressing needs on Earth?,4,False,0.134,272,232
+Is space exploration a justified allocation of resources given the pressing needs on Earth?,5,False,0.318,268,244
+Should computer code be considered a form of free speech protected under the First Amendment?,1,True,1.0,427,427
+Should computer code be considered a form of free speech protected under the First Amendment?,2,True,1.0,152,152
+Should computer code be considered a form of free speech protected under the First Amendment?,3,True,1.0,270,270
+Should computer code be considered a form of free speech protected under the First Amendment?,4,True,1.0,256,256
+Should computer code be considered a form of free speech protected under the First Amendment?,5,True,1.0,251,251
+Is Wikipedia a reliable source for academic research?,1,True,1.0,283,283
+Is Wikipedia a reliable source for academic research?,2,True,1.0,227,227
+Is Wikipedia a reliable source for academic research?,3,False,0.784,226,216
+Is Wikipedia a reliable source for academic research?,4,False,0.546,228,235
+Is Wikipedia a reliable source for academic research?,5,False,0.644,218,206
+Is the intelligence quotient a valid and comprehensive measure of an individual's cognitive abilities?,1,True,1.0,209,209
+Is the intelligence quotient a valid and comprehensive measure of an individual's cognitive abilities?,2,True,1.0,124,124
+Is the intelligence quotient a valid and comprehensive measure of an individual's cognitive abilities?,3,True,1.0,167,167
+Is the intelligence quotient a valid and comprehensive measure of an individual's cognitive abilities?,4,True,1.0,153,153
+Is the intelligence quotient a valid and comprehensive measure of an individual's cognitive abilities?,5,True,1.0,191,191
+Is telemarketing an ethical and effective method for businesses to engage with potential customers?,1,False,0.785,336,332
+Is telemarketing an ethical and effective method for businesses to engage with potential customers?,2,False,0.331,106,114
+Is telemarketing an ethical and effective method for businesses to engage with potential customers?,3,False,0.173,175,190
+Is telemarketing an ethical and effective method for businesses to engage with potential customers?,4,False,0.335,100,138
+Is telemarketing an ethical and effective method for businesses to engage with potential customers?,5,False,0.303,147,154

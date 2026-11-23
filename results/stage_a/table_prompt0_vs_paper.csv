@@ -1,0 +1,3 @@
+metric,paper (100 q),authors' files (first 40 q),ours (40 q),same value per question
+ToF,0.83,0.93,1.02,36/40
+NoF,2.63,2.85,2.55,28/40

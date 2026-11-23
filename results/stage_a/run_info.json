@@ -1,0 +1,27 @@
+{
+  "run_mode": "test",
+  "prompt_type": "qwen_base",
+  "prompt_file": "prompt0",
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "repo_commit": "6356b923905ff5b05877ac7bb65e5207be00e1c2",
+  "python": "3.13.16",
+  "platform": "Linux-6.18.55+-x86_64-with-glibc2.39",
+  "started": "2026-11-23 04:43:42 UTC",
+  "gpus": [
+    "Tesla T4, 15360 MiB, 580.178.04",
+    "Tesla T4, 15360 MiB, 580.178.04"
+  ],
+  "versions": {
+    "torch": "2.7.1+cu126",
+    "transformers": "4.51.3",
+    "accelerate": "1.6.0",
+    "pandas": "2.3.3",
+    "cuda_available": "True",
+    "gpu_count": "2"
+  },
+  "generation_minutes": 74.7,
+  "generation_only_minutes": 74.7,
+  "turn1_identical_share": 0.65,
+  "judge_minutes": 2.0,
+  "finished": "2026-11-23 06:04:00 UTC"
+}
